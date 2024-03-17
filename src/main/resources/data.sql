@@ -1,0 +1,2 @@
+INSERT INTO USERS(id, name, email, password, created, modified, lastlogin, token, isactive,role) 
+VALUES (4,'Juan Cervantes','juancerv@gmail.com', '12345','2024-03-05', '2024-03-05', 'admin','123456', 'y','USER');
